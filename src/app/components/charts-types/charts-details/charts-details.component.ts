@@ -11,7 +11,6 @@ export class ChartsDetailsComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    console.log(this.chart);
     
   }
 
